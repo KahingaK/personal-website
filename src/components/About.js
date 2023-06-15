@@ -1,26 +1,39 @@
-import React from 'react'
+import React from "react";
 
 function About() {
   return (
-    <div name = "about" className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
-        <div className=' max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
-            <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
-
-            </div>
-            <p className='text-xl mt-20'>
-                Aliqua ipsum ut reprehenderit est duis Lorem pariatur aliqua fugiat minim. Sit excepteur tempor amet nisi qui aliquip pariatur laboris. Laborum id aliquip incididunt est voluptate proident magna aute esse.
-                
-            </p>
-
-            <br/>
-
-            <p className='text-xl'> 
-                Aute id sunt pariatur est amet qui laborum. Officia ex nostrud adipisicing duis qui sunt elit aliquip. Elit proident officia proident nostrud commodo. Nulla laboris commodo adipisicing ut cillum laboris officia minim adipisicing adipisicing proident id minim aute. Nulla enim officia laboris qui cillum fugiat laborum eu.
-            </p>
+    <div
+      name="about"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+    >
+      <div className=" max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+        <div className="pb-8">
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+            About
+          </p>
         </div>
+        <p className="text-xl mt-20">
+          I am a web developer with expertise in JavaScript and
+          Ruby, dedicated to delivering exceptional web development solutions.
+          With a strong passion for creating dynamic and visually appealing
+          websites, I am driven by the opportunity to contribute to impactful
+          projects.
+        </p>
+
+        <br />
+
+        <p className="text-xl">
+          Having completed a Certificate in Software Engineering, I have gained
+          valuable skills in UI/UX design, JavaScript programming, data
+          structures, object-oriented design, database management systems, and
+          software testing. My educational background also includes experience
+          in architectural studies. This diverse knowledge base allows me to
+          approach web development with a unique perspective, combining both
+          technical expertise and a creative flair.
+        </p>
+      </div>
     </div>
-  )
+  );
 }
 
-export default About
+export default About;
