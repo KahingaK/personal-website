@@ -12,7 +12,7 @@ function About() {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl">
           I am a web developer with expertise in JavaScript and
           Ruby, dedicated to delivering exceptional web development solutions.
           With a strong passion for creating dynamic and visually appealing
