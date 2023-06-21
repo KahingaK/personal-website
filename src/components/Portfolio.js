@@ -10,7 +10,7 @@ function Portfolio() {
     },
     {
       id: 2,
-      src: arrayDestruct,
+      src: navbar,
     },
   ];
 
