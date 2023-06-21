@@ -59,7 +59,7 @@ function Experience() {
       name="experience"
       className=" bg-gradient-to-b from-gray-800 to-black w-full"
     >
-      <div className="container px-16 py-8 mx-auto p-4 flex flex-col justify-center w-full text-white ">
+      <div className="container px-8 py-8 mx-auto p-4 flex flex-col justify-center w-full text-white ">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-gray-500 p-1">
             My Technologies
