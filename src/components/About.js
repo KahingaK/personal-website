@@ -12,7 +12,7 @@ function About() {
             About
           </p>
         </div>
-        <p className="text-xl">
+        <p className="text-xl md:text-left">
           I am a web developer with expertise in JavaScript and
           Ruby, dedicated to delivering exceptional web development solutions.
           With a strong passion for creating dynamic and visually appealing
@@ -22,7 +22,7 @@ function About() {
 
         <br />
 
-        <p className="text-xl">
+        <p className="text-xl md:text-left">
           Having completed a Certificate in Software Engineering, I have gained
           valuable skills in UI/UX design, JavaScript programming, data
           structures, object-oriented design, database management systems, and
