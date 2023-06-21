@@ -1,10 +1,15 @@
 import React from "react";
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import navbar from "../assets/portfolio/arrayDestruct.jpg";
 
 function Portfolio() {
   const projects = [
     {
       id: 1,
+      src: arrayDestruct,
+    },
+    {
+      id: 2,
       src: arrayDestruct,
     },
   ];
