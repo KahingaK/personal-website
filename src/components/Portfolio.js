@@ -13,7 +13,7 @@ function Portfolio() {
       id: 1,
       src: cosmo,
       link: 'https://cosmoplan.netlify.app/',
-      description: "The Cosmoplan website is a space for Cosmoplan consultant Architects to showcase to potential clients work done by the firm in the hope to improve visibility as well as push for better design practices within the building community"
+      description: "The Cosmoplan website is a application for Cosmoplan consultant Architects to showcase to potential clients work done by the firm in the hope to improve visibility as well as push for better design practices within the building community"
     },
     {
       id: 2,
